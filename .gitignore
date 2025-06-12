@@ -1,0 +1,20 @@
+# Data files
+*.dat
+*.xlsx
+*.csv
+*.ipynb
+
+# Other files
+*.pptx
+*.docx
+*.pdf
+*.par
+*.zip
+*.cmd
+*.bat
+
+# All folders except
+Data
+
+# specific in subfolders
+/*/*.ipynb
