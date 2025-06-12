@@ -1,2 +1,4 @@
 # StEAM_VRE_potentials_and_profiles
-This repository contains a script to manage the variable renewable energy (VRE) potential and profile data.
+This repository contains a script to manage the variable renewable energy (VRE) potential and profile data. </br>
+
+This repository is currently work in progress.
